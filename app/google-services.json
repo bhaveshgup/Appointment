@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067904707374",
+    "project_id": "doctorappoitment-37807",
+    "storage_bucket": "doctorappoitment-37807.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067904707374:android:e102448f0e2234d30468bf",
+        "android_client_info": {
+          "package_name": "com.appointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKXcwyJScHCSjggOAn7M4TH2GSnjqugA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
